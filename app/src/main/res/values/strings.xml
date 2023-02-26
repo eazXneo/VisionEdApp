@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VisionEdApp</string>
+    <string name="settings_text">Settings Panel</string>
+    <string name="visioned_logo">VisionED Logo</string>
+</resources>
